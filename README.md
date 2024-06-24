@@ -1,11 +1,34 @@
-## Welcome
----
-### 💻 Tech Stack:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BaGorK&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BaGorK&theme=dark&hide_border=true)
+<!-- <h2 align='left' style="">Some of the Technologies I work with ❤️</h2> -->
+
+ <table width="100%" height="100%" align='left'>
+   <tr>
+     <th>Programming Languages</th>
+     <th>Technologies [ Frameworks && tools ] </th>
+   </tr>
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+        <img alt="JavaScript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+     <td>
+        <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+      <!--  <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg"> -->
+        <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+        <img alt="node js" height=64px src="https://www.cdnlogo.com/logos/n/79/node-js.svg">
+        <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
+        <img alt="MongoDb" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+     </td>
+  </tr>
+</table>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BaGorK&theme=radical&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=BaGorK&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaGorK&theme=github-compact)](https://github.com/yeabnoah/github-readme-activity-graph)
