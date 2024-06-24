@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](#)
 
 <!-- <h2 align='left' style="">Some of the Technologies I work with ❤️</h2> -->
 
@@ -31,4 +31,4 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaGorK&theme=github-compact)](https://github.com/yeabnoah/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaGorK&theme=github-compact)](#)
