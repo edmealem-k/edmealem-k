@@ -2,7 +2,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](#)
 
 <!-- <h2 align='left' style="">Some of the Technologies I work with ❤️</h2> -->
-
  <table width="100%" height="100%" align='left'>
    <tr>
      <th>Programming Languages</th>
@@ -32,3 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaGorK&theme=github-compact)](#)
+
+<p align="center" style="width: 100vw;">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
