@@ -3,7 +3,6 @@
 <!-- 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](#)
 <h2 align='left' style="">Some of the Technologies I work with ❤️</h2>
--->
 <div align="center">
   <table width="100%" height="100%">
     <tr>
@@ -26,7 +25,6 @@
   </table>
 </div>
 
-<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaGorK&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
