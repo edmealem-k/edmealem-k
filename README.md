@@ -4,8 +4,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BaGorK&data=followers,repositories,stars,commits&theme=darkmode)](#)
 <h2 align='left' style="">Some of the Technologies I work with ❤️</h2>
 -->
-<!--
--->
 <div align="center">
   <table width="100%" height="100%">
     <tr>
@@ -28,14 +26,25 @@
   </table>
 </div>
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaGorK&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaGorK&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaGorK&theme=radical&hide_border=true&include_all_commits=false&count_private=true&exclude=html&layout=compact" alt="Top Languages" />
 </p>
+-->
+
+<div align="center">
+  <a>
+    <img width="40%" src="https://streak-stats.demolab.com?user=BagorK&theme=codeSTACKr" alt="GitHub Streak" />
+    <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BagorK&theme=codeSTACKr" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=BagorK&theme=codeSTACKr&show_icons=true" />  
+    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagorK&theme=codeSTACKr&exclude=yacc" />
+    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BagorK&theme=codeSTACKr" />
+  </a>
+</div>
 
 <!--
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaGorK&theme=github-compact)](#)
