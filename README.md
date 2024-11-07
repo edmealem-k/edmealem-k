@@ -51,3 +51,10 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 -->
+<div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/466107a4-383a-433a-a72d-93aa58acf054.svg)](https://wakatime.com/@466107a4-383a-433a-a72d-93aa58acf054)
+  
+</div>
+
+
