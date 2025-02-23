@@ -56,5 +56,5 @@
   [![wakatime](https://wakatime.com/badge/user/466107a4-383a-433a-a72d-93aa58acf054.svg)](https://wakatime.com/@466107a4-383a-433a-a72d-93aa58acf054)
   
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BaGorK&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
