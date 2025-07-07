@@ -36,7 +36,7 @@
 
 <div align="center">
   <a>
-<!--     <img width="40%" src="https://streak-stats.demolab.com?user=BagorK&theme=codeSTACKr" alt="" /> -->
+    <img width="40%" src="https://streak-stats.demolab.com?user=BagorK&theme=codeSTACKr" alt="" />
     <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BagorK&theme=codeSTACKr" />
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=BagorK&theme=codeSTACKr&show_icons=true" />  
     <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagorK&theme=codeSTACKr&exclude=yacc" />
