@@ -36,11 +36,11 @@
 
 <div align="center">
   <a>
-    <img width="40%" src="https://streak-stats.demolab.com?user=BagorK&theme=codeSTACKr" alt="" />
-    <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BagorK&theme=codeSTACKr" />
-    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=BagorK&theme=codeSTACKr&show_icons=true" />  
-    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagorK&theme=codeSTACKr&exclude=yacc" />
-    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BagorK&theme=codeSTACKr" />
+    <img width="40%" src="https://streak-stats.demolab.com?user=edmealem-k&theme=codeSTACKr" alt="" />
+    <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edmealem-k&theme=codeSTACKr" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=edmealem-k&theme=codeSTACKr&show_icons=true" />  
+    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmealem-k&theme=codeSTACKr&exclude=yacc" />
+    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmealem-k&theme=codeSTACKr" />
   </a>
 </div>
 
@@ -56,5 +56,5 @@
   [![wakatime](https://wakatime.com/badge/user/466107a4-383a-433a-a72d-93aa58acf054.svg)](https://wakatime.com/@466107a4-383a-433a-a72d-93aa58acf054)
   
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BaGorK&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edmealem-k&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
