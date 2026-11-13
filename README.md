@@ -56,9 +56,9 @@
 
 ### 📝 Recent Technical Articles
 
-- [**Multi-Tenant SaaS Architecture: A Practical Guide to Tenant Isolation**](https://edmealem.dev/blog/tenant-isolation-in-saas) — A code-rich guide to modeling tenants, enforcing database query boundaries, and carrying context across APIs, caches, and queues.
-- [**Drizzle ORM with PostgreSQL: A Practical Guide to Schemas, Relations, and Migrations**](https://edmealem.dev/blog/drizzle-orm-postgres-schemas-relations-migrations) — Hands-on guide to setup, inferred types, relations, typed queries, validation, and zero-downtime migrations.
-- [**Reliable Background Jobs in Node.js: Retries and Idempotency**](https://edmealem.dev/blog/reliable-background-jobs-nodejs) — Designing dependable background processing around durable state, BullMQ queues, and idempotent effects.
+- [**Multi-Tenant SaaS Architecture: A Practical Guide to Tenant Isolation**](https://edmealem-dev.vercel.app/blog/tenant-isolation-in-saas) — A code-rich guide to modeling tenants, enforcing database query boundaries, and carrying context across APIs, caches, and queues.
+- [**Drizzle ORM with PostgreSQL: A Practical Guide to Schemas, Relations, and Migrations**](https://edmealem-dev.vercel.app/blog/drizzle-orm-postgres-schemas-relations-migrations) — Hands-on guide to setup, inferred types, relations, typed queries, validation, and zero-downtime migrations.
+- [**Reliable Background Jobs in Node.js: Retries and Idempotency**](https://edmealem-dev.vercel.app/blog/reliable-background-jobs-nodejs) — Designing dependable background processing around durable state, BullMQ queues, and idempotent effects.
 
 ---
 
